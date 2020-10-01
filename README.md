@@ -14,6 +14,7 @@ For instance you can copy and rename to pyina_fear.py or pyian_snare.py etc.
 
 ## Installation
 * Python 3 required
+* Tkinter required
 * Copy pyina.py to any location
 * Configure pyina.py in the Set Up Section of the file
 * Use your favorite editor to edit
